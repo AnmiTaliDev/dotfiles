@@ -1,0 +1,3 @@
+[submodule "thirdparty/meow"]
+	path = thirdparty/meow
+	url = https://github.com/anmitalidev/meow.git
